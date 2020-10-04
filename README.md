@@ -9,7 +9,7 @@
 
 Without it, training will be painfully slow.
 
-To do this, simply click on this "Open in Colab" button at the top of each notebook while viewing the notebook on Github.
+To do this, simply click on the "Open in Colab" button at the top of each notebook while viewing the notebook on Github (or locally). Make sure to right click -> open in new tab for it to work on Github.
 
 You can then make a copy of the notebook in Google Colab (`Copy to Drive`) and start working on it!
 
