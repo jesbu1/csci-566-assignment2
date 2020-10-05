@@ -53,10 +53,10 @@ If the name of environment doesn't match, change it to your virtual environment 
 In each of the notebook file, we indicate `TODO` or `Your Code` for you to fill in with your implementation.
 
 ### Problem 1: Variational Autoencoders (45 points)
-The IPython Notebook `CSCI566_Assignment2_problem2_VAE.ipynb` will walk you through implementing VAEs with PyTorch.
+The IPython Notebook `CSCI566_Assignment2_problem_1_VAE.ipynb` will walk you through implementing VAEs with PyTorch.
 
 ### Problem 2: GANs for Image Generation (37 points)
-The IPython Notebook `CSCI566_Assignment2_problem2_GAN.ipynb` will walk you through implementing a GAN with PyTorch.
+The IPython Notebook `CSCI566_Assignment2_problem_2_GAN.ipynb` will walk you through implementing a GAN with PyTorch.
 
 ## How to submit
 
