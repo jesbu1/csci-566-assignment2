@@ -88,8 +88,8 @@ PLEASE USE **PIAZZA** TO POST QUESTIONS (under folder assignment1).
 - Can I reuse the virtualenv from Assignment 1?
 You can reuse the vistual environment but maybe you need to install some missing packages using pip3 install -r requirements.txt.
 Maybe simpler is to create a new virtualenv, we give instructions above.
-- My reconstruction loss for Problem 2.4 is higher than 0.145?
-You should achieve a reconstruction loss lower than 0.145 for full credit.
+- My reconstruction loss for Problem 2.4 is higher than 0.0145?
+You should achieve a reconstruction loss lower than 0.0145 for full credit.
 
 - **General debugging tips**
 1. Make sure your implementations matches the specified model layers perfectly.
